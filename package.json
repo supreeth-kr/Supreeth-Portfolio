@@ -1,0 +1,17 @@
+{
+  "name": "supreeth-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio of Supreeth K R — Software Developer & Creative Designer",
+  "main": "serve.js",
+  "scripts": {
+    "start": "node serve.js",
+    "dev": "node serve.js"
+  },
+  "keywords": [
+    "portfolio",
+    "developer",
+    "creative-designer"
+  ],
+  "author": "Supreeth K R",
+  "license": "MIT"
+}
